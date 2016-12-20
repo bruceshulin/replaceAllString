@@ -1,0 +1,9 @@
+F:\github\replaceAllString\replaceAllString\bin\Debug\replaceAllString.exe.config
+F:\github\replaceAllString\replaceAllString\bin\Debug\replaceAllString.exe
+F:\github\replaceAllString\replaceAllString\bin\Debug\replaceAllString.pdb
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.csprojResolveAssemblyReference.cache
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.Form1.resources
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.Properties.Resources.resources
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.csproj.GenerateResource.Cache
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.exe
+F:\github\replaceAllString\replaceAllString\obj\Debug\replaceAllString.pdb
